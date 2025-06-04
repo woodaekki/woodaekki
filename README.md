@@ -1,6 +1,6 @@
 ## 🐥 김선우의 프로필 
 <p>
-  <img src="../SSAFY/ETC/김선우.png" width="250" height="250" style="margin-left: 15px;" />
+  <img src="./김선우.png" width="250" height="250" style="margin-left: 15px;" />
 </p>
 
 
